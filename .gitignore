@@ -31,6 +31,6 @@ Thumbs.db
 /cap_router.php
 /iniciar-servidor.bat
 
-# Carpeta de documentos: material de referencia y documentos generados,
-# no forma parte de la aplicacion
+
 /documentos
+diseno_sistema_docentes.md
